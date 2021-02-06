@@ -1,9 +1,4 @@
-
-<p align="center">
-  <img width="500px" src="https://media3.giphy.com/media/6voi54cT9s7gQ/giphy.gif" alt="animated" />
-</p>
-
-<hr>
+<img src="https://image.shutterstock.com/image-vector/dogs-banner-260nw-441292900.jpg">
 
 - ## Técnica Universitaria en Programación, UTN 2019-2020 ✔️
 - ## Cursando: Tecnicatura Universitaria en Sistemas Informáticos, UTN 2021
@@ -31,6 +26,10 @@
 
 <hr>
 
-<p align="center">
-  <img width="500px" src="https://1.bp.blogspot.com/-GgT7W1TVWeI/Wvs2RcIQD7I/AAAAAAAAC1Y/cJciUDPw6xw2I_-ztrJddQ2PWCBICU9RgCLcBGAs/s1600/giphy.gif" alt="animated" />
-</p>
+ <table style="width:100%">
+  <tr>
+    <td><img height="300px" src="https://media3.giphy.com/media/6voi54cT9s7gQ/giphy.gif" alt="animated" /></td>
+    <td><img height="300px" src="https://1.bp.blogspot.com/-GgT7W1TVWeI/Wvs2RcIQD7I/AAAAAAAAC1Y/cJciUDPw6xw2I_-ztrJddQ2PWCBICU9RgCLcBGAs/s1600/giphy.gif" alt="animated" />
+</td>
+  </tr>
+</table> 
