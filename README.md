@@ -24,7 +24,7 @@
     <td><img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" /></td>
     <td><img height="80px" src="https://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" /></td>
     <td><img height="80px" src="https://static.wikia.nocookie.net/caniscanem/images/c/cc/Android_logo.png/revision/latest?cb=20201011070043&path-prefix=es" /></td>
-    <td><img height="80px" src="https://mariadb.org/wp-content/uploads/2019/01/mariadb_org_rgb_v_stroke.png" /></td>
+    <td><img height="80px" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png" /></td>
  </tr>
 </table> 
 
