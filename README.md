@@ -20,7 +20,8 @@
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
    <img height="100vh" src="https://www.abd.es/wp-content/uploads/2018/11/sql-server-logo.png" />
    <img height="100vh" src="https://tech.tribalyte.eu/wp-content/uploads/2018/05/ionic.png" />
-   <img height="100vh" src="https://static.wikia.nocookie.net/caniscanem/images/c/cc/Android_logo.png/revision/latest?cb=20201011070043&path-prefix=es" />
+   <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" />
+   <img height="100vh" src="https://static.wikia.nocookie.net/caniscanem/images/c/cc/Android_logo.png/revision/latest?cb=20201011070043&path-prefix=es" /> 
 </div> 
 
 <hr>
