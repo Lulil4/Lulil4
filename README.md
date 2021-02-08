@@ -24,7 +24,7 @@
    <img height="100vh" src="https://static.wikia.nocookie.net/caniscanem/images/c/cc/Android_logo.png/revision/latest?cb=20201011070043&path-prefix=es" /> 
    <img height="100vh" src="https://i.pinimg.com/originals/67/07/cf/6707cfe60d0ae430dea81b1a5cdd3402.png" /> 
    <img height="100vh" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" /> 
-   
+   <img height="100vh" src="https://material.angular.io/assets/img/angular-material-logo.svg" /> 
 </div> 
 
 <hr>
