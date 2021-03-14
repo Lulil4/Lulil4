@@ -5,7 +5,7 @@
 
 <div class="flex-container">
    <img src="https://atopisimo.com/wp-content/uploads/2020/05/A-la-mierda-mono-monkey-gif.gif" alt="animated" />
-   <img height="100vh" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+   <img height="100vh" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
    <img height="100vh" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
    <img height="100vh" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />
