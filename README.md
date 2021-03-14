@@ -8,7 +8,7 @@
    <img height="100vh" src="https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png" />
    <img height="100vh" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
    <img height="100vh" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
-   <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" />
+   <img height="100vh" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
    <img height="100vh" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-and-moodle-elearningworld-5.png" />
    <img height="100vh" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" />
    <img height="100vh" src="https://image.flaticon.com/icons/png/512/919/919826.png" />
