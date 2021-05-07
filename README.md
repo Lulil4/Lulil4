@@ -26,7 +26,7 @@
    <img height="100vh" src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png" /> 
    <img height="100vh" src="https://material.angular.io/assets/img/angular-material-logo.svg" /> 
    <img height="100vh" src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" /> 
-   <img height="100vh" src="assets.stickpng.com/images/58481021cef1014c0b5e494b.png" /> 
+   <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /> 
 </div> 
 
 <hr>
