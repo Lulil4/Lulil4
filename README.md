@@ -27,6 +27,7 @@
    <img height="100vh" src="https://material.angular.io/assets/img/angular-material-logo.svg" /> 
    <img height="100vh" src="https://1000marcas.net/wp-content/uploads/2020/11/Java-logo.png" /> 
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" /> 
+   <img height="100vh" src="https://folderit.net/wp-content/uploads/2014/06/uml-logo.jpg" /> 
 </div> 
 
 <hr>
