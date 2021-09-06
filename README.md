@@ -1,4 +1,4 @@
-<img height="100vh" width="100%" src="https://i.ibb.co/s3dcwz8/banner.png">
+<img height="100vh" width="100%" src="https://i.ibb.co/gzfrRYR/banner.png">
 
 - ## Técnica Universitaria en Programación, UTN 2019-2020 ✔️
 - ## Cursando: Tecnicatura Universitaria en Sistemas Informáticos, UTN 2021
