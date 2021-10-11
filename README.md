@@ -15,6 +15,7 @@
    <img height="100vh" src="https://cdn4.iconfinder.com/data/icons/google-i-o-2016/512/google_firebase-2-512.png" />
    <img height="100vh" src="https://joseacat.io/wp-content/uploads/2017/10/logo_cordova.png" />
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+<img height="100vh" src="https://4.bp.blogspot.com/-820ovUVvjiU/WFsfSYKPwtI/AAAAAAAAMBE/fyubZgu5iM4RkN6RHSetq3d62H1nQ9DUACLcB/s1600/GDHlxO_z.jpg" />
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" />
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" />
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png" />
