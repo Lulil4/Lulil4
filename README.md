@@ -38,6 +38,8 @@
    <img height="100vh" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" />    
    <img height="100vh" src="https://www.ecured.cu/images/2/2f/RUP1.png" />   
    <img height="100vh" src="https://sistemasdegestion.mx/wp-content/uploads/2020/06/Drawio2.jpg" />   
+   <img height="100vh" src="https://miro.medium.com/max/1296/1*iDvsmUwzZQxJSKdL0xzwIA.png" />   
+   <img height="100vh" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" />   
 </div> 
 
 <hr>
