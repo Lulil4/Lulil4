@@ -39,6 +39,7 @@
    <img height="100vh" src="https://sistemasdegestion.mx/wp-content/uploads/2020/06/Drawio2.jpg" />   
    <img height="100vh" src="https://miro.medium.com/max/1296/1*iDvsmUwzZQxJSKdL0xzwIA.png" />   
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" />   
+   <img height="100vh" src="https://cdn.svgporn.com/logos/bulma.svg" />   
 </div> 
 
 <hr>
