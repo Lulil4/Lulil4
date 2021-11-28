@@ -32,7 +32,6 @@
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" />
    <img height="100vh" src="https://image.flaticon.com/icons/png/512/460/460989.png" />
    <img height="100vh" src="https://www.seekpng.com/png/full/377-3772047_sass-logo.png" /> 
-   <img height="100vh" src="https://symbols.getvecta.com/stencil_103/14_yarn-icon.7fa4859b75.svg" />
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /> 
    <img height="100vh" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" /> 
    <img height="100vh" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" />    
