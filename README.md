@@ -1,7 +1,7 @@
 <img height="100vh" width="100%" src="https://i.ibb.co/3m6rvwj/banner.png">
 
 - ## Técnica Universitaria en Programación, UTN 2019-2020 ✔️
-- ## Tecnica Universitaria en Sistemas Informáticos, UTN 2021-2021 ✔️
+- ## Técnica Universitaria en Sistemas Informáticos, UTN 2021-2021 ✔️
 
 <div class="flex-container">
    <img src="https://atopisimo.com/wp-content/uploads/2020/05/A-la-mierda-mono-monkey-gif.gif" alt="animated" />
